@@ -1,0 +1,16 @@
+{
+  "name": "bird-brain",
+  "version": "1.0.0",
+  "description": "Randomly connects to voice channels with people in them and does bird stuff.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evan Tichenor (evan.tichenor@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "discord.js": "^12.5.3",
+    "ffmpeg-static": "^4.4.0"
+  }
+}
